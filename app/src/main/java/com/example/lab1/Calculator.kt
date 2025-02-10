@@ -6,7 +6,7 @@ class Calculator(num1: Double, num2: Double) {
     private val num2: Double
 
     init {
-        this.num1 = num1
+        this.num1 = num
         this.num2 = num2
     }
 
